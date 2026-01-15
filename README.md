@@ -11,13 +11,6 @@ RasoiBot/
 ├── ai-service/     → Python Flask AI Engine (OpenAI, Scikit-learn)
 ```
 
-## 👥 Team Members
-| Name           | Role            |
-|----------------|------------------|
-| Aditya Maurya  | Backend (Spring) |
-| Aditi Jadhav   | Frontend (React) |
-| Aditi Kumari   | AI/ML (Flask + Python) |
-
 ## 🔧 Tech Stack
 - **Frontend**: React.js, Chakra UI, Material UI
 - **Backend**: Spring Boot, MongoDB, Redis, JWT
